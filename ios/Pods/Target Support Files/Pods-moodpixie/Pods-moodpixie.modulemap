@@ -1,0 +1,6 @@
+module Pods_moodpixie {
+  umbrella header "Pods-moodpixie-umbrella.h"
+
+  export *
+  module * { export * }
+}
